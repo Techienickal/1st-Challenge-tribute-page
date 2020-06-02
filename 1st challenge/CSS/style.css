@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: auto;
+    font-family: monospace;
+    font-size: 80px;
+    color: firebrick;
+}
+
+h4{
+    text-align: center;
+    font-family: monospace;
+    font-size: 25px;
+    color: firebrick;
+    margin-left: 25%;
+    margin-right: auto;
+}
+
+body{
+    text-align: left;
+    font-family: monospace;
+    color: firebrick;
+    font-size: 25px;
+    max-width: 75%;
+    background-image:white;
+
+}
+@media (max-height: 900px) {
+    body{
+        font-size: 25px;
+    }
+}
+
+.responsive{
+  max-width: 100%;
+  height: auto;
+    display: block;
+  margin-left: 25%;
+  margin-right: auto;
+  width: 75%;
+}
+
+.caption{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: auto;
+}
+
+
+.container1{
+   display: block;
+    margin-left:25%;
+    margin-right: auto;
+}
